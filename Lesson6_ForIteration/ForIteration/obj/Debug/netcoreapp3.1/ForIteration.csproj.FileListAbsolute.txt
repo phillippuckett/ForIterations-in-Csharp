@@ -1,0 +1,19 @@
+C:\Users\phill\source\repos\ForIteration\ForIteration\bin\Debug\netcoreapp3.1\ForIteration.exe
+C:\Users\phill\source\repos\ForIteration\ForIteration\bin\Debug\netcoreapp3.1\ForIteration.deps.json
+C:\Users\phill\source\repos\ForIteration\ForIteration\bin\Debug\netcoreapp3.1\ForIteration.runtimeconfig.json
+C:\Users\phill\source\repos\ForIteration\ForIteration\bin\Debug\netcoreapp3.1\ForIteration.runtimeconfig.dev.json
+C:\Users\phill\source\repos\ForIteration\ForIteration\bin\Debug\netcoreapp3.1\ForIteration.dll
+C:\Users\phill\source\repos\ForIteration\ForIteration\bin\Debug\netcoreapp3.1\ForIteration.pdb
+C:\Users\phill\source\repos\ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.csprojAssemblyReference.cache
+C:\Users\phill\source\repos\ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.csproj.CoreCompileInputs.cache
+C:\Users\phill\source\repos\ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.AssemblyInfoInputs.cache
+C:\Users\phill\source\repos\ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.AssemblyInfo.cs
+C:\Users\phill\source\repos\ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.dll
+C:\Users\phill\source\repos\ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.pdb
+C:\Users\phill\source\repos\ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.genruntimeconfig.cache
+C:\Users\phill\source\repos\Bob Tabor C# for Beginners\Lesson6_ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.csprojAssemblyReference.cache
+C:\Users\phill\source\repos\Bob Tabor C# for Beginners\Lesson6_ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.AssemblyInfoInputs.cache
+C:\Users\phill\source\repos\Bob Tabor C# for Beginners\Lesson6_ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.AssemblyInfo.cs
+C:\Users\phill\source\repos\Bob Tabor C# for Beginners\Lesson6_ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.csproj.CoreCompileInputs.cache
+C:\Users\phill\source\repos\Bob Tabor C# for Beginners\Lesson6_ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.dll
+C:\Users\phill\source\repos\Bob Tabor C# for Beginners\Lesson6_ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.pdb
